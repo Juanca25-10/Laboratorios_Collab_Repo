@@ -1,2 +1,2 @@
-# Laboratorio_N8
-Laboratorio Practica de Python
+# Laboratorios_Collab
+Laboratorio Practica de Python 8 y 9
